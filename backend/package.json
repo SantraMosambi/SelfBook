@@ -1,7 +1,7 @@
 {
-  "name": "selfbook-backend",
+  "name": "inotebook-backend",
   "version": "1.0.0",
-  "description": "\"SelfBook - Your personal notebook on cloud\"",
+  "description": "iNotebook - Your notebook on the cloud",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.0.8"
+    "mongoose": "^6.0.3"
   },
   "devDependencies": {
-    "nodemon": "^2.0.13"
+    "nodemon": "^2.0.12"
   }
 }
